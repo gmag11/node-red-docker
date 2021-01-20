@@ -1,3 +1,5 @@
+I've modified custom dockerfile to allow nodered to run commands in other containers
+
 # Node-RED Docker
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/node-red/node-red-docker.svg)](https://greenkeeper.io/)
